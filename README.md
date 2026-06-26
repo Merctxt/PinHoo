@@ -1,0 +1,1 @@
+# Browser extension for pinterest anonimous navigation
