@@ -1,7 +1,7 @@
 {
   "name": "Pin Hoo",
   "description": "A simple extension that allows you to browse anonymously on Pinterest.",
-  "version": "1.0",
+  "version": "1.2",
   "manifest_version": 3,
   "action": {
     "default_popup": "popup.html",
